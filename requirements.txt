@@ -1,0 +1,2 @@
+fastbook==0.0.29
+pandas==2.1.0
